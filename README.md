@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20[YourName]!&fontSize=80&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20[Dhwaj Jain]!&fontSize=80&animation=fadeIn)
 
 <div align="center">
   
 ### 🚀 AI & Data Science Enthusiast | Tech Events Lead | Hackathon Participant
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhwaj-jain-780264323/)
 
 </div>
 
