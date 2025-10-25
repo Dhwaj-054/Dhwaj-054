@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20[Dhwaj Jain]!&fontSize=80&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20[DhwajJain]!&fontSize=80&animation=fadeIn)
 
 <div align="center">
   
