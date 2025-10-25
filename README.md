@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-### 🚀 AI & Data Science Enthusiast | Tech Events Lead | Hackathon Participant
+### 🚀 AI & Data Science Student | Passionate about FinTech and Business | Associated in Tech, Operations and Marketing
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhwaj-jain-780264323/)
@@ -33,14 +33,11 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech AI & Data Science Student  
-🔬 Research Interest: **NLP, Computer Vision, LLM Optimization**  
-📊 Working on: **Systematic Optimization of LLMs for Mathematics**  
-🎯 Events Head @ College Tech Committee  
-🏆 Smart India Hackathon 2025 | Agriculture Tech Solution  
-📚 IBM Python for Data Science | HEC Paris Entrepreneurship Graduate  
+🎓 AI & Data Science Student  
+🔬 Research Interest: **Artificial Intelligence, Ethical AI usage, LLM Optimization for FinTech and Business use**  
 
-💡 *Passionate about building AI solutions that bridge technology and real-world impact!*
+
+💡 *Passionate about building AI solutions in the Tech and Finance domains, that bridge technology and real-world impact!*
 
 ---
 
@@ -66,11 +63,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhwaj-054&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhwaj-054&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwaj-054&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -97,7 +94,7 @@ Precision agriculture system for Kerala farmers using AI for crop yield optimiza
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dhwaj-054&theme=onedark&no-frame=true&row=1&column=6)
 
 ---
 
@@ -105,9 +102,9 @@ Precision agriculture system for Kerala farmers using AI for crop yield optimiza
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhwaj-jain-780264323/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhwaj054@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhwaj-054)
 
 </div>
 
